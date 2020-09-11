@@ -32,9 +32,9 @@
 %%
 %% the setup of ctex package
 %%
-\def\contentsname{目\BITspace 录}
-\def\listfigurename{插\BITspace 图}
-\def\listtablename{表\BITspace 格}
+\def\contentsname{目录}
+\def\listfigurename{插图}
+\def\listtablename{表格}
 
 %%
 %% 封面标题
