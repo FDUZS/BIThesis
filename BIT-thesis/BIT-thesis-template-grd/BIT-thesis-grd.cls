@@ -225,7 +225,7 @@ footskip=0.7cm% 页脚 1.8cm %
 
 \RequirePackage{titletoc}
 \titlecontents{chapter}[0pt]{\songti \zihao{4}}
-    {\bf\thecontentslabel\hspace{\ccwd}}{\bf}
+    {\thecontentslabel\hspace{\ccwd}}{}
     {\hspace{.5em}\titlerule*{.}\contentspage}
 \titlecontents{section}[2\ccwd]{\songti \zihao{-4}}
     {\thecontentslabel\hspace{\ccwd}}{}
