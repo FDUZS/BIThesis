@@ -357,7 +357,9 @@ footskip=0.7cm% 页脚 1.8cm %
 
 
 %% sort and compress citations
-\RequirePackage[numbers,square,comma,super,sort&compress]{natbib}
+% \RequirePackage[numbers,square,comma,super,sort&compress]{natbib}
+% 解决水平引用变上标引用的问题，但是如果水平引用左侧或上标引用右侧为中文会有一个空格
+\RequirePackage[numbers,square,comma,sort&compress]{natbib}
 % 上标引用
 \newcommand{\upcite}[1]{\textsuperscript{\cite{#1}}}
 
