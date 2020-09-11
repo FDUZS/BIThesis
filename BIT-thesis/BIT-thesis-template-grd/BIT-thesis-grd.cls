@@ -1,4 +1,4 @@
-%==================================================
+%%==================================================
 %% BIT-thesis-grd.cls for BIT Thesis
 %% modified by yang yating
 %% version: 1.4
@@ -684,7 +684,7 @@ footskip=0.7cm% 页脚 1.8cm %
  \newenvironment{abstract}
  {
   \cleardoublepage
-  \chapter{\BIT@label@abstract}
+  \chapter*{\BIT@label@abstract}
  }
  {}
 %下一页从偶数页开始
@@ -703,11 +703,11 @@ footskip=0.7cm% 页脚 1.8cm %
  \newenvironment{englishabstract}
  {
   \clearpage
-  \chapter{\BIT@label@englishabstract}
+  \chapter*{\BIT@label@englishabstract}
  }
  {}
 
- % 英文摘要
+ % 英文关键词
  \newcommand\englishkeywords[1]{%
   \vspace{2ex}\noindent{\bf \BIT@label@englishkeywords} #1}
 
@@ -846,7 +846,7 @@ footskip=0.7cm% 页脚 1.8cm %
   %%%============================术语=====================
   \newcommand{\bit@denotation@name}{主要符号对照表}
   \newenvironment{denotation}[1][2.5cm]{
-      \chapter{\bit@denotation@name} % no tocline
+      \chapter*{\bit@denotation@name} % no tocline
       \noindent\begin{list}{}%
       {\vskip-30bp\zihao{-4}
        \renewcommand\makelabel[1]{##1\hfil}
