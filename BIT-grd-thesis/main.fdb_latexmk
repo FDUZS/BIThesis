@@ -1,0 +1,17 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.xdv" "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.pdf" "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main" 0
+  "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.pdf"
+["xelatex"] 1609170117 "main.tex" "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.xdv" "main" 1609170117
+  "BIT-grd-thesis.cls" 0 -1 0 ""
+  "c:/texlive/2020/texmf-dist/web2c/texmf.cnf" 1599784373 39451 15a3ebee027466ecb89701aa91dfebaf ""
+  "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1599784852 4784027 35121eeff6694a89ec2eed9409ce0416 ""
+  "c:/texlive/2020/texmf.cnf" 1596781529 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/BIT-grd-thesis.cls" 0 -1 0 ""
+  "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.aux" 1609170117 9 a94a2480d3289e625eea47cd1b285758 ""
+  "main.tex" 1609147433 88 92702a868ddf99c9ca0beeee393043cb ""
+  (generated)
+  "main.log"
+  "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.xdv"
+  "d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.log"

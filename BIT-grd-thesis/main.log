@@ -1,0 +1,33 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.9.11)  28 DEC 2020 23:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-06>
+
+! LaTeX Error: File `BIT-grd-thesis.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main.tex:2: Emergency stop.
+<read *> 
+         
+l.2 ^^M
+       
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 22 strings out of 479682
+ 542 string characters out of 5892022
+ 249323 words of memory out of 5000000
+ 17378 multiletter control sequences out of 15000+600000
+ 535088 words of font info for 29 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 20i,0n,25p,70b,10s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
