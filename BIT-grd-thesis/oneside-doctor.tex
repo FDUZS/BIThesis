@@ -1,0 +1,78 @@
+\documentclass[oneside, doctor]{BIThesis}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%% 填写以下信息 %%%%%%%%%%%%%%%%%%%%%%%%%
+\CLC{TQ028.1} % 中图分类号
+\UDC{540} % UDC 分类号
+
+\title{形状记忆聚氨酯的合，成及、其在织物中的应用} % 论文题目
+\author{高凌} % 作者姓名
+\institute{材料学院} % 学院名称
+\mentor{张亮教授} % 指导教师
+\chairman{刘小明教授} % 答辩委员会主席
+\degree{工学博士} % 申请学位
+\major{材料科学与工程} % 学科专业
+\school{北京理工大学} % 学位授予单位
+\date{2009年6月} % 论文答辩日期
+
+\englishtitle{Synthesis and Application on textile of the Shape Memory Polyurethane} % 论文题目（英）
+\englishauthor{Ling Gao} % 作者姓名（英）
+\englishinstitute{Material Science and Engineering} % 学院名称（英）
+\englishmentor{Prof. Liang Zhang} % 指导教师（英）
+\englishchairman{Prof. Xiaoming Liu} % 答辩委员会主席（英）
+\englishdegree{Doctor of Philosophy} % 申请学位（英）
+\englishmajor{Material Science and Engineering} % 学科专业（英）
+\englishschool{Beijing Institute of Technology} % 学位授予单位（英）
+\englishdate{June, 2009} % 论文答辩日期（英）
+%%%%%%%%%%%%%%%%%%%%%%%%% 填写以上信息 %%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makecoverpage % 封面
+\maketitlepage % 中文题名页
+\makeenglishtitlepage % 英文题名页
+\makeverticaltitlepage % 竖排题名页
+\makedeclarationpage % 声明和授权页
+
+\frontmatter
+
+\input{main/00_abstract} % 中英文摘要
+
+\tableofcontents % 目录
+
+\let\origaddvspace\addvspace
+\renewcommand{\addvspace}[1]{}
+\cleardoublepage
+\listoffigures % 插图
+\pdfbookmark[0]{插图}{listoffigures}
+\cleardoublepage
+\listoftables % 附表
+\pdfbookmark[0]{附表}{listoftables}
+\renewcommand{\addvspace}[1]{\origaddvspace{#1}}
+
+\input{main/01_listofglossaries} % 注释表
+
+\mainmatter
+
+\input{main/02_chapter1} % 第一章
+\input{main/03_chapter2} % 第二章
+\input{main/04_chapter3} % 第三章
+\input{main/05_chapter4} % 第四章
+\input{main/06_chapter5} % 第五章
+\input{main/07_conclusion} % 结论
+\bibliography{reference/ref} % 参考文献
+
+\appendix
+\renewcommand{\theequation}{\Alph{chapter}--\arabic{equation}}
+\renewcommand{\thefigure}{\Alph{chapter}--\arabic{figure}}
+\renewcommand{\thetable}{\Alph{chapter}--\arabic{table}}
+
+\input{main/08_appendix1} % 附录一
+\input{main/09_appendix2} % 附录二
+
+\backmatter
+
+\input{main/10_listofpublications} % 论文和研究成果清单
+\input{main/11_acknowledgment} % 致谢
+\input{main/12_resume} % 作者简介
+
+\end{document}
