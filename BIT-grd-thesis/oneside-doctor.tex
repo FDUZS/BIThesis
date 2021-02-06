@@ -42,11 +42,11 @@
 \let\origaddvspace\addvspace
 \renewcommand{\addvspace}[1]{}
 \cleardoublepage
-\listoffigures % 插图
 \pdfbookmark[0]{插图}{listoffigures}
+\listoffigures % 插图
 \cleardoublepage
-\listoftables % 附表
 \pdfbookmark[0]{附表}{listoftables}
+\listoftables % 附表
 \renewcommand{\addvspace}[1]{\origaddvspace{#1}}
 
 \input{main/01_listofglossaries} % 注释表
