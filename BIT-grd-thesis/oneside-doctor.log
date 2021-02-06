@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.4)  6 FEB 2021 15:08
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.4)  6 FEB 2021 15:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **oneside-doctor.tex
-(d:/LaTeX/graduation-thesis/oneside-doctor.tex
+(d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.tex
 LaTeX2e <2020-10-01> patch level 3
-L3 programming layer <2020-12-07> xparse <2020-03-03> (d:/LaTeX/graduation-thesis/BIThesis.cls
+L3 programming layer <2020-12-07> xparse <2020-03-03> (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/BIThesis.cls
 Document Class: BIThesis 2020/12/31 BIThesis LaTeX class
 (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexbook.cls (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2020/10/19 v2.5.5 Backend configuration file (CTEX)
@@ -987,7 +987,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box81
 \enit@count@id=\count382
 \enitdp@description=\count383
-)) (d:/LaTeX/graduation-thesis/oneside-doctor.aux)
+)) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.aux)
 \openout1 = `oneside-doctor.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -1116,7 +1116,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
- (d:/LaTeX/graduation-thesis/oneside-doctor.out) (d:/LaTeX/graduation-thesis/oneside-doctor.out)
+ (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.out) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.out)
 \@outlinefile=\write4
 \openout4 = `oneside-doctor.out'.
 
@@ -1346,7 +1346,7 @@ Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
 
 
 
-] (d:/LaTeX/graduation-thesis/main/00_abstract.tex
+] (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/00_abstract.tex
 
 Package fontspec Info: Could not resolve font "Microsoft YaHei Bold/I" (it
 (fontspec)             probably doesn't exist).
@@ -1405,7 +1405,7 @@ Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
 ]) [2
 
 
-] (d:/LaTeX/graduation-thesis/oneside-doctor.toc)
+] (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.toc)
 \tf@toc=\write5
 \openout5 = `oneside-doctor.toc'.
 
@@ -1413,7 +1413,7 @@ Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
 
 
 
-] (d:/LaTeX/graduation-thesis/oneside-doctor.lof)
+] (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.lof)
 \tf@lof=\write6
 \openout6 = `oneside-doctor.lof'.
 
@@ -1421,11 +1421,11 @@ Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
 
 
 
-] (d:/LaTeX/graduation-thesis/oneside-doctor.lot)
+] (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.lot)
 \tf@lot=\write7
 \openout7 = `oneside-doctor.lot'.
 
- (d:/LaTeX/graduation-thesis/main/01_listofglossaries.tex [5
+ (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/01_listofglossaries.tex [5
 
 
 
@@ -1433,43 +1433,43 @@ Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
 
 
 
-] (d:/LaTeX/graduation-thesis/main/02_chapter1.tex
+] (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/02_chapter1.tex
 第1章
 File: figure/fig1.png Graphic file (type bmp)
 <figure/fig1.png>
 [1
 
 
-]) (d:/LaTeX/graduation-thesis/main/03_chapter2.tex) (d:/LaTeX/graduation-thesis/main/04_chapter3.tex) (d:/LaTeX/graduation-thesis/main/05_chapter4.tex) (d:/LaTeX/graduation-thesis/main/06_chapter5.tex) (d:/LaTeX/graduation-thesis/main/07_conclusion.tex [2]) (d:/LaTeX/graduation-thesis/oneside-doctor.bbl [3
+]) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/03_chapter2.tex) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/04_chapter3.tex) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/05_chapter4.tex) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/06_chapter5.tex) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/07_conclusion.tex [2]) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.bbl [3
 
-]) (d:/LaTeX/graduation-thesis/main/08_appendix1.tex [4
+]) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/08_appendix1.tex [4
 
 ]
 附录 A
-) (d:/LaTeX/graduation-thesis/main/09_appendix2.tex [5
+) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/09_appendix2.tex [5
 
 ]
 附录 B
 ) [6
 
-] (d:/LaTeX/graduation-thesis/main/10_listofpublications.tex) (d:/LaTeX/graduation-thesis/main/11_acknowledgment.tex [7
+] (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/10_listofpublications.tex) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/11_acknowledgment.tex [7
 
 
-]) (d:/LaTeX/graduation-thesis/main/12_resume.tex [8
+]) (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/main/12_resume.tex [8
 
 ]) [9
 
-] (d:/LaTeX/graduation-thesis/oneside-doctor.aux)
+] (d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.aux)
 Package rerunfilecheck Info: File `oneside-doctor.out' has not changed.
 (rerunfilecheck)             Checksum: 8CEF27B91F2409B7985ECF95D0E4BB7D;2628.
  ) 
 Here is how much of TeX's memory you used:
- 34657 strings out of 477226
- 739690 string characters out of 5834123
- 1037625 words of memory out of 5000000
- 53596 multiletter control sequences out of 15000+600000
- 420567 words of font info for 189 fonts, out of 8000000 for 9000
+ 34654 strings out of 477226
+ 740167 string characters out of 5834123
+ 1037623 words of memory out of 5000000
+ 53595 multiletter control sequences out of 15000+600000
+ 420551 words of font info for 187 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  110i,12n,108p,830b,784s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on d:/LaTeX/graduation-thesis/oneside-doctor.xdv (20 pages, 154068 bytes).
+Output written on d:/Repo/GitHub/BIThesis/BIT-grd-thesis/oneside-doctor.xdv (20 pages, 153940 bytes).
