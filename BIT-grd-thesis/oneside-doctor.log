@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.4)  7 FEB 2021 09:01
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.4)  7 FEB 2021 10:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1215,37 +1215,67 @@ Overfull \hbox (0.66417pt too wide) detected at line 32
 
 ]
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-[]\TU/SimHei(0)/m/n/16.06 形
+[]\TU/SimHei(0)/m/n/16.06 中
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 状
+\TU/SimHei(0)/m/n/16.06 国
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 记
+\TU/SimHei(0)/m/n/16.06 科
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 忆
+\TU/SimHei(0)/m/n/16.06 研
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 聚
+\TU/SimHei(0)/m/n/16.06 人
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 氨
+\TU/SimHei(0)/m/n/16.06 员
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 酯
+\TU/SimHei(0)/m/n/16.06 对
+ []
+
+
+Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
+\TU/SimHei(0)/m/n/16.06 开
+ []
+
+
+Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
+\TU/SimHei(0)/m/n/16.06 放
+ []
+
+
+Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
+\TU/SimHei(0)/m/n/16.06 获
+ []
+
+
+Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
+\TU/SimHei(0)/m/n/16.06 取
+ []
+
+
+Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
+\TU/SimHei(0)/m/n/16.06 期
+ []
+
+
+Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
+\TU/SimHei(0)/m/n/16.06 刊
  []
 
 
@@ -1254,58 +1284,63 @@ Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
  []
 
 
-Overfull \hbox (8.46913pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 合，|
- []
-
-
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 成
+\TU/SimHei(0)/m/n/16.06 认
  []
 
 
 Overfull \hbox (9.84929pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 及、|
+\TU/SimHei(0)/m/n/16.06 知、|
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 其
+\TU/SimHei(0)/m/n/16.06 态
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 在
+\TU/SimHei(0)/m/n/16.06 度
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 织
+\TU/SimHei(0)/m/n/16.06 及
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 物
+\TU/SimHei(0)/m/n/16.06 行
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 中
+\TU/SimHei(0)/m/n/16.06 为
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 的
+\TU/SimHei(0)/m/n/16.06 研
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 应
+\TU/SimHei(0)/m/n/16.06 究 
  []
 
 
 Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
-\TU/SimHei(0)/m/n/16.06 用 
+[]\TU/SimHei(0)/m/n/16.06 张
+ []
+
+
+Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
+\TU/SimHei(0)/m/n/16.06 三
+ []
+
+
+Overfull \hbox (4.015pt too wide) in paragraph at lines 33--33
+\TU/SimHei(0)/m/n/16.06 丰 
  []
 
 
@@ -1464,10 +1499,10 @@ Package rerunfilecheck Info: File `oneside-doctor.out' has not changed.
 (rerunfilecheck)             Checksum: 8CEF27B91F2409B7985ECF95D0E4BB7D;2628.
  ) 
 Here is how much of TeX's memory you used:
- 34652 strings out of 477226
- 738327 string characters out of 5834123
- 1037623 words of memory out of 5000000
- 53595 multiletter control sequences out of 15000+600000
+ 34630 strings out of 477226
+ 736890 string characters out of 5834123
+ 1037638 words of memory out of 5000000
+ 53573 multiletter control sequences out of 15000+600000
  420551 words of font info for 187 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  110i,12n,108p,865b,784s stack positions out of 5000i,500n,10000p,200000b,80000s

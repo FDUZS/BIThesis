@@ -410,6 +410,8 @@
         \begin{minipage}{1em}
             {\heiti \zihao{3} \BIT@value@title}
             \vskip 2cm
+            {\heiti \zihao{3} \BIT@value@author}
+            \vskip 2cm
             {\heiti \zihao{3} \BIT@value@school}
         \end{minipage}
     \end{center}
